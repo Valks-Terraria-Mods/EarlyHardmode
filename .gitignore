@@ -1,0 +1,10 @@
+.vs/
+
+bin/
+
+obj/
+EarlyHardmode.csproj
+
+EarlyHardmode.csproj.user
+
+EarlyHardmode.sln
