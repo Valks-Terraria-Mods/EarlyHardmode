@@ -1,5 +1,5 @@
 author = valkyrienyanko
-version = 1.2
+version = 1.2.1
 displayName = Early Hardmode
 
-homepage = https://discord.gg/thMupbv
+homepage = https://github.com/Valks-Terraria-Mods/EarlyHardmode
